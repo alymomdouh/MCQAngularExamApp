@@ -1,5 +1,10 @@
-# Calculator
-
+# MCQ Angular Online Exam App
+#### for doctor and students 
+### Most Used Command
+### 1- >  <code> npm i   </code>
+### 2- >  <code> npm server   </code>
+### 3- >  <code> npm server   </code>
+### 4- >  <code> json-server --watch db.json   </code>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
 ## Development server
